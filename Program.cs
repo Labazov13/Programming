@@ -1,7 +1,7 @@
 class Animal { 
     string kindOfAnimal;
     string name;
-
+// удалили ветку blackList
     public int sum(int a,int b){
         int result=a+b;
         Console.WriteLine(result);

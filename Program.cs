@@ -1,4 +1,4 @@
-﻿class Animal {
+class Animal {   //Продолжайте работать!
     string kindOfAnimal;
     string name;
     int numberOfLegs;
